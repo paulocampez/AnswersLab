@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AnswersLab.Domain\AnswersLab.Domain.csproj" />
+    <ProjectReference Include="..\AnswersLab.BoundedContext\AnswersLab.BoundedContext.csproj" />
+    <ProjectReference Include="..\AnswersLab.Models\AnswersLab.Models.csproj" />
+    <ProjectReference Include="..\AnswersLab.Infrastructure\AnswersLab.Infrastructure.csproj" />
+    <ProjectReference Include="..\AnswersLab.UnitOfWork\AnswersLab.UnitOfWork.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.1" />
+    <PackageReference Include="RxWeb.Core.AspNetCore" Version="3.0.4-preview1" />
+    <PackageReference Include="RxWeb.Core.Localization" Version="3.0.1" />
+    <PackageReference Include="RxWeb.Core.Logging" Version="3.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>

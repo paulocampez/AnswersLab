@@ -1,0 +1,13 @@
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\bin\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.deps.json
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\bin\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\bin\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\bin\Debug\netcoreapp3.1\AnswersLab.Models.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\bin\Debug\netcoreapp3.1\AnswersLab.Models.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\obj\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\obj\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\obj\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.AssemblyInfo.cs
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\obj\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.csproj.CopyComplete
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\obj\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.UnitOfWork\obj\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.pdb

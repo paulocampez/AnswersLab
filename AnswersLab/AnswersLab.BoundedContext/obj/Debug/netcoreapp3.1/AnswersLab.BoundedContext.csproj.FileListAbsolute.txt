@@ -1,0 +1,11 @@
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.deps.json
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\bin\Debug\netcoreapp3.1\AnswersLab.Models.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\bin\Debug\netcoreapp3.1\AnswersLab.Models.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\obj\Debug\netcoreapp3.1\AnswersLab.BoundedContext.csprojAssemblyReference.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\obj\Debug\netcoreapp3.1\AnswersLab.BoundedContext.AssemblyInfoInputs.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\obj\Debug\netcoreapp3.1\AnswersLab.BoundedContext.AssemblyInfo.cs
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\obj\Debug\netcoreapp3.1\AnswersLab.BoundedContext.csproj.CopyComplete
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\obj\Debug\netcoreapp3.1\AnswersLab.BoundedContext.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.BoundedContext\obj\Debug\netcoreapp3.1\AnswersLab.BoundedContext.pdb

@@ -1,0 +1,476 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Api\\AnswersLab.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Api\\AnswersLab.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Api\\AnswersLab.Api.csproj",
+        "projectName": "AnswersLab.Api",
+        "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Api\\AnswersLab.Api.csproj",
+        "packagesPath": "C:\\Users\\Paulo Campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.0.124:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Domain\\AnswersLab.Domain.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Domain\\AnswersLab.Domain.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Infrastructure\\AnswersLab.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Infrastructure\\AnswersLab.Infrastructure.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "RxWeb.Core.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.4-preview1, )"
+            },
+            "RxWeb.Core.Localization": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "RxWeb.Core.Logging": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj",
+        "projectName": "AnswersLab.BoundedContext",
+        "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj",
+        "packagesPath": "C:\\Users\\Paulo Campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.0.124:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "RxWeb.Core.Data": {
+              "target": "Package",
+              "version": "[3.0.2-preview1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Domain\\AnswersLab.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Domain\\AnswersLab.Domain.csproj",
+        "projectName": "AnswersLab.Domain",
+        "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Domain\\AnswersLab.Domain.csproj",
+        "packagesPath": "C:\\Users\\Paulo Campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.0.124:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Infrastructure\\AnswersLab.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Infrastructure\\AnswersLab.Infrastructure.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Infrastructure\\AnswersLab.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Infrastructure\\AnswersLab.Infrastructure.csproj",
+        "projectName": "AnswersLab.Infrastructure",
+        "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Infrastructure\\AnswersLab.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Paulo Campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.0.124:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj"
+              },
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "RxWeb.Core": {
+              "target": "Package",
+              "version": "[2.0.3-preview1, )"
+            },
+            "RxWeb.Core.Annotations": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "RxWeb.Core.Cache": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "RxWeb.Core.Sanitizers": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "RxWeb.Core.Security": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj",
+        "projectName": "AnswersLab.Models",
+        "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\AnswersLab.Models.csproj",
+        "packagesPath": "C:\\Users\\Paulo Campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.0.124:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "RxWeb.Core.Annotations": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "RxWeb.Core.Data": {
+              "target": "Package",
+              "version": "[3.0.2-preview1, )"
+            },
+            "RxWeb.Core.Sanitizers": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj",
+        "projectName": "AnswersLab.UnitOfWork",
+        "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\AnswersLab.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\Paulo Campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.0.124:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj": {
+                "projectPath": "C:\\Users\\Paulo Campez\\Documents\\GitHub\\AnswersLab\\AnswersLab\\AnswersLab.BoundedContext\\AnswersLab.BoundedContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

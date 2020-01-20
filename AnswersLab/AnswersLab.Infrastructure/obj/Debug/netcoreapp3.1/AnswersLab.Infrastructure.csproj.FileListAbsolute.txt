@@ -1,0 +1,15 @@
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.Infrastructure.deps.json
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.Infrastructure.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.Infrastructure.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.Models.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.Models.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\bin\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\obj\Debug\netcoreapp3.1\AnswersLab.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\obj\Debug\netcoreapp3.1\AnswersLab.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\obj\Debug\netcoreapp3.1\AnswersLab.Infrastructure.AssemblyInfo.cs
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\obj\Debug\netcoreapp3.1\AnswersLab.Infrastructure.csproj.CopyComplete
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\obj\Debug\netcoreapp3.1\AnswersLab.Infrastructure.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Infrastructure\obj\Debug\netcoreapp3.1\AnswersLab.Infrastructure.pdb

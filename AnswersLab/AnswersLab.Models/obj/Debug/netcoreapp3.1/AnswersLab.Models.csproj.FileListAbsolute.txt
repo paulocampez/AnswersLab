@@ -1,0 +1,8 @@
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Models\bin\Debug\netcoreapp3.1\AnswersLab.Models.deps.json
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Models\bin\Debug\netcoreapp3.1\AnswersLab.Models.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Models\bin\Debug\netcoreapp3.1\AnswersLab.Models.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Models\obj\Debug\netcoreapp3.1\AnswersLab.Models.csprojAssemblyReference.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Models\obj\Debug\netcoreapp3.1\AnswersLab.Models.AssemblyInfoInputs.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Models\obj\Debug\netcoreapp3.1\AnswersLab.Models.AssemblyInfo.cs
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Models\obj\Debug\netcoreapp3.1\AnswersLab.Models.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Models\obj\Debug\netcoreapp3.1\AnswersLab.Models.pdb

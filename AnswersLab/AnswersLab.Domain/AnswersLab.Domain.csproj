@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AnswersLab.BoundedContext\AnswersLab.BoundedContext.csproj" />
+    <ProjectReference Include="..\AnswersLab.UnitOfWork\AnswersLab.UnitOfWork.csproj" />
+    <ProjectReference Include="..\AnswersLab.Models\AnswersLab.Models.csproj" />
+    <ProjectReference Include="..\AnswersLab.Infrastructure\AnswersLab.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

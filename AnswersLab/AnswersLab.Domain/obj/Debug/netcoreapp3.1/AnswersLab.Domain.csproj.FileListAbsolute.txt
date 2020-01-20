@@ -1,0 +1,17 @@
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.Domain.deps.json
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.Domain.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.Domain.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.Infrastructure.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.Models.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.BoundedContext.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.UnitOfWork.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.Models.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\bin\Debug\netcoreapp3.1\AnswersLab.Infrastructure.pdb
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\obj\Debug\netcoreapp3.1\AnswersLab.Domain.csprojAssemblyReference.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\obj\Debug\netcoreapp3.1\AnswersLab.Domain.AssemblyInfoInputs.cache
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\obj\Debug\netcoreapp3.1\AnswersLab.Domain.AssemblyInfo.cs
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\obj\Debug\netcoreapp3.1\AnswersLab.Domain.csproj.CopyComplete
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\obj\Debug\netcoreapp3.1\AnswersLab.Domain.dll
+C:\Users\Paulo Campez\Documents\GitHub\AnswersLab\AnswersLab\AnswersLab.Domain\obj\Debug\netcoreapp3.1\AnswersLab.Domain.pdb
